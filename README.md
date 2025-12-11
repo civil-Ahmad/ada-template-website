@@ -3,7 +3,7 @@ ada-2025-project-adav created by GitHub Classroom
 
 ## 1. Financial Immunology: Dynamics and Contagion in the NASDAQ Market
 
-![Financial Immunology: Dynamics and Contagion in the NASDAQ Market](Extras/immufinance.png)
+![Financial Immunology: Dynamics and Contagion in the NASDAQ Market](extras/immufinance.png)
 
 ## 2. Abstract: 
 
