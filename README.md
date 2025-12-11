@@ -1,3 +1,35 @@
+# ada-2025-project-adav
+ada-2025-project-adav created by GitHub Classroom
+
+## 1. Financial Immunology: Dynamics and Contagion in the NASDAQ Market
+
+![Financial Immunology: Dynamics and Contagion in the NASDAQ Market](Extras/immufinance.png)
+
+## 2. Abstract: 
+
+This project aims to analyze the complex interactions and contagion dynamics of the NASDAQ stock and ETF market through an immonological lens. Inspired by biological immune networks, we model financial assets as nodes interacting through dynamic information exchangfe and response mechanisms. Using the Kaggle stock and ETF dataset, we will construct correlatioins, mutual information and transfer entropy. We will focus on specific high-volatility periods (e.g., COVID-19 crash, crisis) to study how market "immunity" responds to shocks. The ultimate goal is to visualize and quantify systemic resilience, propagtaion of stress and recovery (analogously to immunce system responses of a human for example).Our project aims to tell a story about how markets fight, adapt and recover like living organisms.
+
+
+## 3. Research Questions: 
+
+A list of research questions you would like to address during the project:
+
+  **a. How do correlation structures within the NASDAQ evolve over time, and how do they respond to major market shocks ?**
+
+  **b. To what extent can non-linear dependencies (captured by mutual informaion) reveal hidden conncetions between traditional linear correlations?**
+
+  **c. Can transfer entropy uncover direfctional or causal links that suggest "information flow" or contagion pathways between assets ?**
+
+  **d. How does the market immunity (ability to absorb and recover from perturbations) vary across different events or sectors ?**
+
+  **e. Can we identify 'key immune cells' (stocks or ETFs) that play central stabilizing or destabilizing roles in the financial network ?**
+
+## 4. Proposed additional datasets : 
+
+Sector or company metadata: to label networks nodes by sectors to study cross-sector iommunological effects
+
+
+
 # ADA Template Website
 ## Usage
 1. Fork (copy) this repository by clicking the "Fork" button on the top right corner.
